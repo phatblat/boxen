@@ -81,6 +81,7 @@ include onepassword
 include skitch
 include sparrow
 include things
+include totalterminal
 
 # OS X defaults - https://github.com/boxen/puppet-osx
 # include osx::recovery_message { 'If this Mac is found, please call 720-213-8856': }
@@ -111,7 +112,7 @@ include osx::finder::show_removable_media_on_desktop
 # include osx::finder::show_all_on_desktop # does all of the above
 # include osx::finder::empty_trash_securely # enable Secure Empty Trash
 include osx::finder::unhide_library # unsets the hidden flag on ~/Library
-include osx::finder::show_hidden_files
+# include osx::finder::show_hidden_files
 include osx::finder::enable_quicklook_text_selection
 include osx::universal_access::ctrl_mod_zoom
 include osx::universal_access::enable_scrollwheel_zoom
