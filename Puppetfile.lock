@@ -159,6 +159,11 @@ GITHUBTARBALL
     things (1.0.1)
 
 GITHUBTARBALL
+  remote: boxen/puppet-xquartz
+  specs:
+    xquartz (1.1.1)
+
+GITHUBTARBALL
   remote: phatblat/puppet-totalterminal
   specs:
     totalterminal (1.0.0)
@@ -203,4 +208,5 @@ DEPENDENCIES
   stdlib (= 4.1.0)
   things (= 1.0.1)
   totalterminal (= 1.0.0)
+  xquartz (= 1.1.1)
 

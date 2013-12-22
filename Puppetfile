@@ -51,7 +51,7 @@ github "repository", "2.2.0"
 github "ruby",       "6.7.2"
 github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 #github "sudo",       "1.0.0"
-#github "xquartz",    "1.1.0"
+github "xquartz",    "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
@@ -77,6 +77,7 @@ github "onepassword","1.1.0"
 github "osx",        "2.2.1"
 github "skitch",     "1.0.2"
 github "sparrow",    "1.0.0"
-github "totalterminal", "1.0.0", :repo => "phatblat/puppet-totalterminal"
 github "things",     "1.0.1"
+# TotalTerminal is last since that is what is used to trigger boxen updates
+github "totalterminal", "1.0.0", :repo => "phatblat/puppet-totalterminal"
 

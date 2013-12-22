@@ -57,6 +57,7 @@ node default {
   include git
   include hub
   include nginx
+  include xquartz
 
 include adium
 include alfred
