@@ -81,8 +81,12 @@ include omnigraffle
 include onepassword
 include skitch
 include sparrow
+include sublime_text_2
+sublime_text_2::package { 'Emmet':
+  source => 'sergeche/emmet-sublime'
+}
 include things
-include totalterminal
+#include totalterminal
 
 # OS X defaults - https://github.com/boxen/puppet-osx
 # include osx::recovery_message { 'If this Mac is found, please call 720-213-8856': }

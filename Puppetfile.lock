@@ -154,6 +154,11 @@ GITHUBTARBALL
     sparrow (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-sublime_text_2
+  specs:
+    sublime_text_2 (1.1.2)
+
+GITHUBTARBALL
   remote: boxen/puppet-things
   specs:
     things (1.0.1)
@@ -206,6 +211,7 @@ DEPENDENCIES
   skitch (= 1.0.2)
   sparrow (= 1.0.0)
   stdlib (= 4.1.0)
+  sublime_text_2 (= 1.1.2)
   things (= 1.0.1)
   totalterminal (= 1.0.0)
   xquartz (= 1.1.1)

@@ -77,6 +77,7 @@ github "onepassword","1.1.0"
 github "osx",        "2.2.1"
 github "skitch",     "1.0.2"
 github "sparrow",    "1.0.0"
+github "sublime_text_2","1.1.2"
 github "things",     "1.0.1"
 # TotalTerminal is last since that is what is used to trigger boxen updates
 github "totalterminal", "1.0.0", :repo => "phatblat/puppet-totalterminal"
