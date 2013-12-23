@@ -77,6 +77,7 @@ include istatmenus4
 include java
 include jenkins
 include jumpcut
+include kaleidoscope
 include omnigraffle
 include onepassword
 include skitch
@@ -86,6 +87,7 @@ sublime_text_2::package { 'Emmet':
   source => 'sergeche/emmet-sublime'
 }
 include things
+include tower
 #include totalterminal
 
 # OS X defaults - https://github.com/boxen/puppet-osx
