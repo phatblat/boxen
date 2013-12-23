@@ -71,6 +71,7 @@ include chrome
 include eclipse::java
 include evernote
 include gimp
+include git-sh
 include hipchat
 include intellij
 include istatmenus4
