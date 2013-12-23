@@ -80,7 +80,6 @@ github "skitch",     "1.0.2"
 github "sparrow",    "1.0.0"
 github "sublime_text_2","1.1.2"
 github "things",     "1.0.1"
-github "tower",      "1.0.0"
-# TotalTerminal is last since that is what is used to trigger boxen updates
 github "totalterminal", "1.0.0", :repo => "phatblat/puppet-totalterminal"
-
+github "tower",      "1.0.0"
+github "vmware_fusion", "1.1.0"

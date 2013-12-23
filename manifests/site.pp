@@ -88,6 +88,9 @@ sublime_text_2::package { 'Emmet':
 }
 include things
 include tower
+include vmware_fusion
+
+# TotalTerminal is last since that is what is used to trigger boxen updates
 #include totalterminal
 
 # OS X defaults - https://github.com/boxen/puppet-osx
