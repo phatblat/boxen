@@ -83,4 +83,5 @@ github "sublime_text_2","1.1.2"
 github "things",     "1.0.1"
 github "totalterminal", "1.0.0", :repo => "phatblat/puppet-totalterminal"
 github "tower",      "1.0.0"
-github "vmware_fusion", "1.1.0"
+#github "vmware_fusion", "1.0.0" # version 5.0.3-1040386
+github "vmware_fusion", "1.1.0" # version 6.0.2-1398658
